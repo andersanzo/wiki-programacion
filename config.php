@@ -1,5 +1,5 @@
 <?php
-// config.php
+// ARCHIVO DE CONFIGURACIÓN PARA CONEXION A BASE DE DATOS CON PHPMYADMIN
 $host = 'localhost';
 $user = 'root';
 $password = ''; // Actualiza según tu configuración
